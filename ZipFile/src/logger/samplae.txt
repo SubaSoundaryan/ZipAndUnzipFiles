@@ -1,0 +1,3 @@
+request:{"productLabels":[{"label":"ZIPTEST","data":"string"}]}
+
+response: {"status":"SUCCESS","code":"200","message":"API Successfully Responded","data":[{"uniqueId":"01e3bd902f7247438de278fbb1362831","label":"ZIPTEST","data":"string","status":"SUCCESS"}]}response-time: Fri Oct 14 10:23:14 UTC 2022
